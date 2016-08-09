@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Desktop-KS\Desktop\AirlineApp\AirlineApp\AirlineApp.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Desktop-KS\Desktop\AirlineApp\AirlineApp\AirlineApp.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Desktop-KS\Desktop\AirlineApp\AirlineApp\AirlineApp.Droid\obj\Debug\__library_projects__\Xamarin.PayPal.Android.CardIO\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\Users\Desktop-KS\Desktop\AirlineApp\AirlineApp\AirlineApp.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Desktop-KS\Desktop\AirlineApp\AirlineApp\AirlineApp.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Desktop-KS\Desktop\AirlineApp\AirlineApp\AirlineApp.Droid\obj\Debug\__library_projects__\Xamarin.PayPal.Android.CardIO\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Desktop-KS\Desktop\AirlineApp\AirlineApp\AirlineApp.Droid\obj\Debug\__library_projects__\Xamarin.PayPal.Android\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Desktop-KS\Desktop\AirlineApp\AirlineApp\AirlineApp.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Desktop-KS\Desktop\AirlineApp\AirlineApp\AirlineApp.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Desktop-KS\Desktop\AirlineApp\AirlineApp\AirlineApp.Droid\obj\Debug\__library_projects__\Xamarin.PayPal.Android.CardIO.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

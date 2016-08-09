@@ -1,0 +1,2 @@
+C:\Users\Desktop-KS\Documents\Visual Studio 2015\Projects\AirlineApp\AirlineApp\AirlineApp.Windows\AirlineApp.Windows.csproj;neutral
+C:\Users\Desktop-KS\Documents\Visual Studio 2015\Projects\AirlineApp\AirlineApp\AirlineApp\AirlineApp.csproj;neutral

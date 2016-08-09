@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="planet_prompt">Choose a Airline</string>
+  <string-array name="planets_array">
+    <item>Choose a Airline</item>
+    <item>Indigo</item>
+    <item>Airindia</item>
+    <item>Kingfiser</item>
+    <item>Indigo</item>
+    <item>Airindia</item>
+    <item>Kingfiser</item>
+    <item>Indigo</item>
+    <item>Airindia</item>
+    <item>Kingfiser</item>
+    <item>Indigo</item>
+    <item>Airindia</item>
+    <item>Kingfiser</item>
+    <item>Indigo</item>
+    <item>Airindia</item>
+    <item>Kingfiser</item>
+    <item>Indigo</item>
+    <item>Airindia</item>
+    <item>Kingfiser</item>
+    <item>Indigo</item>
+    <item>Airindia</item>
+    <item>Kingfiser</item>
+    <item>Indigo</item>
+    <item>Airindia</item>
+    <item>Kingfiser</item>
+  </string-array>
+</resources>
